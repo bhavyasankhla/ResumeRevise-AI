@@ -1,0 +1,13 @@
+SUMMARY:
+ My expertise includes problem solving, communication, and organizational skills. I am highly motivated and committed to achieving success in any given task.
+EXPERIENCE 0 
+
+ Optimized the accuracy of BERT Machine Learning (ML) model by leveraging OpenAI GPT-4 LLM for text classification tasks, resulting in improved accuracy by 10%
+EXPERIENCE 1 
+
+
+I engineered an Enterprise Analytics Data Pipeline to analyze user behavior by processing Oracle Analytics Cloud (OAC) user events, resulting in dashboard metrics that offer valuable insights into Daily Active Users (DAU), Monthly Active Users (MAU), and overall user adoption. I collaborated with leadership in system design discussions, contributing to the implementation of a distributed data pipeline for processing Oracle Analytics Cloud application logs. I orchestrated the design of the data collector microservice using Java 8 and the Spring Boot, specializing in extracting, transforming events, and loading data into the data warehouse (ETL). Additionally, I designed and developed the Task Manager microservice to orchestrate cloud-deployed components, including the data-collector and data-processor. To further enhance the application, I developed a Global Collector microservice for Cloud Product Analytics (CP360) which uses the Boomerang JS library to monitor end-user performance by capturing client-side metrics. Additionally, I implemented Spark Dataflow to collect data from
+EXPERIENCE 2 
+
+
+Are you looking for a motivated, hard-working professional to join your team? If so, I'm your perfect candidate! With a proven track record of success and a passion for excellence, I'm confident I can make an immediate and positive impact on your organization. I'm eager to leverage my skills and experience to help you reach your goals. Let's connect and discuss how I can be an asset to your team.
